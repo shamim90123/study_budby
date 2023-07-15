@@ -20,3 +20,6 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+# this is the video that i am following to make this project
+#  https://www.youtube.com/watch?v=PtQiiknWUcI
